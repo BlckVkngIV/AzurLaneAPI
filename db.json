@@ -1,5 +1,4 @@
-{
-    "ships": [
+[
         {
             "id:": "2",
             "name": "USS Laffey",
@@ -245,4 +244,3 @@
             "nation": "Sakura Empire"
         }
     ]
-}
