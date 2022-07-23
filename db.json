@@ -236,26 +236,6 @@
         },
         {
             "id:": "25",
-            "name": "IJN Ise",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
-            "imageUrl": "https://azurlane.netojuu.com/images/2/2c/Ise.png",
-            "description": "",
-            "type": "Battleship",
-            "rarity": "Rare",
-            "nation": "Sakura Empire"
-        },
-        {
-            "id:": "26",
-            "name": "IJN Nagato",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagato",
-            "imageUrl": "https://azurlane.netojuu.com/images/4/46/Nagato.png",
-            "description": "",
-            "type": "Battleship",
-            "rarity": "Rare",
-            "nation": "Sakura Empire"
-        },
-        {
-            "id:": "27",
             "name": "IJN Kaga",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga",
             "imageUrl": "https://azurlane.netojuu.com/images/9/9a/Kaga.png",
@@ -265,7 +245,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "28",
+            "id:": "26",
             "name": "IJN Akagi",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi",
             "imageUrl": "https://azurlane.netojuu.com/images/0/06/Akagi.png",
