@@ -1,37 +1,4 @@
-
 [
-
-    {
-        "id:": "1",
-        "name": "Universal Bulin",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Universal_Bulin",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Universal_Bulin.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Elite",
-        "nation": "Unknown"
-    },
-    {
-        "id:": "2",
-        "name": "Prototype Bulin MKII",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prototype_Bulin_MKII",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prototype_Bulin_MKII.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Super Rare",
-        "nation":"Unknown"
-    },
-    {
-        "id:": "3",
-        "name": "Specialized Bulin Custom MKIII",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Specialized_Bulin_Custom_MKIII",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Specialized_Bulin_Custom_MKIII.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Ultra Rare",
-        "nation": "Unknown"
-    },
-    //Eagle Union Ships
     {
         "id:": "4",
         "name": "USS Dewey",
@@ -229,7 +196,6 @@
         "rarity": "Super Rare",
         "nation": "Royal Navy"
     },
-    
     {
   
         "id:": "23",
@@ -373,7 +339,6 @@
         "rarity": "Rare",
         "nation": "Sakura Empire"
     },
-    
     {
         
         "id:": "36",
@@ -432,17 +397,6 @@
     {
         
         "id:": "41",
-        "name": "KMS Gneisenau",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Gneisenau",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Gneisenau.png",
-        "description": "",
-        "type": "Battlecruiser",
-        "rarity": "Super Rare",
-        "nation": "Iron Blood"
-    },
-    {
-        
-        "id:": "42",
         "name": "KMS Graf Zeppelin",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Graf_Zeppelin",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Graf_Zeppelin.png",
