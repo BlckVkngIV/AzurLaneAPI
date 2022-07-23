@@ -1,246 +1,248 @@
-[
-    {
-        "id:": "2",
-        "name": "USS Laffey",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Laffey",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Laffey.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Elite",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "3",
-        "name": "USS Helena",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Helena",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Helena.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Elite",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "4",
-        "name": "USS Cleveland",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Cleveland",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Cleveland.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Rare",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "5",
-        "name": "USS Oklahoma",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Oklahoma",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Oklahoma.png",
-        "description": "",
-        "type": "Battleship",
-        "rarity": "Common",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "6",
-        "name": "USS Atlanta",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atlanta",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atlanta.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Rare",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "7",
-        "name": "USS Enterprise",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Enterprise",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Enterprise.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Super Rare",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "8",
-        "name": "USS Long Island",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Long_Island",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Long_Island.png",
-        "description": "",
-        "type": "Light Aircraft Carrier",
-        "rarity": "Rare",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "9",
-        "name": "USS Yorktown",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Yorktown",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Yorktown.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Elite",
-        "nation": "Eagle Union"
-    },
-    {
-        "id:": "10",
-        "name": "HMS Hood",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Hood",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Hood.png",
-        "description": "",
-        "type": "Battlecruiser",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    {
-        "id:": "11",
-        "name": "HMS Leander",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Leander.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Common",
-        "nation": "Royal Navy"
-    },
-    {
-        "id:": "12",
-        "name": "HMS Dido",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Dido",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Dido.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    { 
-        "id:": "13",
-        "name": "HMS Belfast",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Belfast",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Belfast.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    {
-        "id:": "14",
-        "name": "HMS London",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/London",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:London.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Elite",
-        "nation": "Royal Navy"
-    },
-    {
-        "id:": "15",
-        "name": "HMS Exeter",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Exeter",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Exeter.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Elite",
-        "nation": "Royal Navy"
-    },
-    {
-        "id:": "16",
-        "name": "HMS Duke of York",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Duke_of_York.png",
-        "description": "",
-        "type": "Battleship",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    {
-        
-        "id:": "17",
-        "name": "HMS Illustrious",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Illustrious.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    {
-        
-        "id:": "18",
-        "name": "HMS Formidable",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Formidable",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Formidable.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Super Rare",
-        "nation": "Royal Navy"
-    },
-    {
-        
-        "id:": "19",
-        "name": "IJN Kagerou",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kagerou",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kagerou.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        
-        "id:": "20",
-        "name": "IJN Ayanami",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ayanami",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ayanami.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Elite",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "21",
-        "name": "IJN Furutaka",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Furutaka.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Common",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "22",
-        "name": "IJN Mogami",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Mogami.png",
-        "description": "",
-        "type": "Light Cruiser",
-        "rarity": "Elite",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "23",
-        "name": "IJN Takao",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Takao.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Super Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "24",
-        "name": "IJN Atago",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atago.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Super Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "25",
-        "name": "IJN Ise",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ise.png",
-        "description": "",
-        "type": "Battleship",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    }
-]
+{ 
+   "ships": [
+        {
+            "id:": "2",
+            "name": "USS Laffey",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Laffey",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Laffey.png",
+            "description": "",
+            "type": "Destroyer",
+            "rarity": "Elite",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "3",
+            "name": "USS Helena",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Helena",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Helena.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Elite",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "4",
+            "name": "USS Cleveland",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Cleveland",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Cleveland.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Rare",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "5",
+            "name": "USS Oklahoma",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Oklahoma",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Oklahoma.png",
+            "description": "",
+            "type": "Battleship",
+            "rarity": "Common",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "6",
+            "name": "USS Atlanta",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atlanta",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atlanta.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Rare",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "7",
+            "name": "USS Enterprise",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Enterprise",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Enterprise.png",
+            "description": "",
+            "type": "Aircraft Carrier",
+            "rarity": "Super Rare",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "8",
+            "name": "USS Long Island",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Long_Island",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Long_Island.png",
+            "description": "",
+            "type": "Light Aircraft Carrier",
+            "rarity": "Rare",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "9",
+            "name": "USS Yorktown",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Yorktown",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Yorktown.png",
+            "description": "",
+            "type": "Aircraft Carrier",
+            "rarity": "Elite",
+            "nation": "Eagle Union"
+        },
+        {
+            "id:": "10",
+            "name": "HMS Hood",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Hood",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Hood.png",
+            "description": "",
+            "type": "Battlecruiser",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        {
+            "id:": "11",
+            "name": "HMS Leander",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Leander.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Common",
+            "nation": "Royal Navy"
+        },
+        {
+            "id:": "12",
+            "name": "HMS Dido",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Dido",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Dido.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        { 
+            "id:": "13",
+            "name": "HMS Belfast",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Belfast",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Belfast.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        {
+            "id:": "14",
+            "name": "HMS London",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/London",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:London.png",
+            "description": "",
+            "type": "Heavy Cruiser",
+            "rarity": "Elite",
+            "nation": "Royal Navy"
+        },
+        {
+            "id:": "15",
+            "name": "HMS Exeter",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Exeter",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Exeter.png",
+            "description": "",
+            "type": "Heavy Cruiser",
+            "rarity": "Elite",
+            "nation": "Royal Navy"
+        },
+        {
+            "id:": "16",
+            "name": "HMS Duke of York",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Duke_of_York.png",
+            "description": "",
+            "type": "Battleship",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        {
+            
+            "id:": "17",
+            "name": "HMS Illustrious",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Illustrious.png",
+            "description": "",
+            "type": "Aircraft Carrier",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        {
+            
+            "id:": "18",
+            "name": "HMS Formidable",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Formidable",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Formidable.png",
+            "description": "",
+            "type": "Aircraft Carrier",
+            "rarity": "Super Rare",
+            "nation": "Royal Navy"
+        },
+        {
+            
+            "id:": "19",
+            "name": "IJN Kagerou",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kagerou",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kagerou.png",
+            "description": "",
+            "type": "Destroyer",
+            "rarity": "Rare",
+            "nation": "Sakura Empire"
+        },
+        {
+            
+            "id:": "20",
+            "name": "IJN Ayanami",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ayanami",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ayanami.png",
+            "description": "",
+            "type": "Destroyer",
+            "rarity": "Elite",
+            "nation": "Sakura Empire"
+        },
+        {
+            "id:": "21",
+            "name": "IJN Furutaka",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Furutaka.png",
+            "description": "",
+            "type": "Heavy Cruiser",
+            "rarity": "Common",
+            "nation": "Sakura Empire"
+        },
+        {
+            "id:": "22",
+            "name": "IJN Mogami",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Mogami.png",
+            "description": "",
+            "type": "Light Cruiser",
+            "rarity": "Elite",
+            "nation": "Sakura Empire"
+        },
+        {
+            "id:": "23",
+            "name": "IJN Takao",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Takao.png",
+            "description": "",
+            "type": "Heavy Cruiser",
+            "rarity": "Super Rare",
+            "nation": "Sakura Empire"
+        },
+        {
+            "id:": "24",
+            "name": "IJN Atago",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atago.png",
+            "description": "",
+            "type": "Heavy Cruiser",
+            "rarity": "Super Rare",
+            "nation": "Sakura Empire"
+        },
+        {
+            "id:": "25",
+            "name": "IJN Ise",
+            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
+            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ise.png",
+            "description": "",
+            "type": "Battleship",
+            "rarity": "Rare",
+            "nation": "Sakura Empire"
+        }
+    ]
+}
