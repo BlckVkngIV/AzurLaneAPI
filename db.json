@@ -273,56 +273,6 @@
             "type": "Aircraft Carrier",
             "rarity": "Rare",
             "nation": "Sakura Empire"
-        },
-        {
-            "id:": "29",
-            "name": "KMS Z23",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
-            "imageUrl": "https://azurlane.netojuu.com/images/0/07/Z23.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Elite",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "30",
-            "name": "KMS Prinz Eugen",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
-            "imageUrl": "https://azurlane.netojuu.com/images/6/67/Prinz_Eugen.png",
-            "description": "",
-            "type": "Heavy Cruiser",
-            "rarity": "Super Rare",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "31",
-            "name": "KMS Bismarck",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Bismarck",
-            "imageUrl": "https://azurlane.netojuu.com/images/3/3c/Bismarck.png",
-            "description": "",
-            "type": "Battleship",
-            "rarity": "Super Rare",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "32",
-            "name": "KMS Tirpitz",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
-            "imageUrl": "https://azurlane.netojuu.com/images/3/38/Tirpitz.png",
-            "description": "",
-            "type": "Battleship",
-            "rarity": "Super Rare",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "33",
-            "name": "KMS Graf Zeppelin",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Graf_Zeppelin",
-            "imageUrl": "https://azurlane.netojuu.com/images/a/a4/Graf_Zeppelin.png",
-            "description": "",
-            "type": "Aircraft Carrier",
-            "rarity": "Super Rare",
-            "nation": "Iron Blood"
         }
     ]
 }
