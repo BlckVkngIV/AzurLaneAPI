@@ -312,16 +312,6 @@
     },
     {
         "id:": "37",
-        "name": "KMS Z25",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z25",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Z25.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Elite",
-        "nation": "Iron Blood"
-    },
-    {
-        "id:": "38",
         "name": "KMS Prinz Eugen",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prinz_Eugen.png",
@@ -331,7 +321,7 @@
         "nation": "Iron Blood"
     },
     {
-        "id:": "39",
+        "id:": "38",
         "name": "KMS Tirpitz",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Tirpitz.png",
