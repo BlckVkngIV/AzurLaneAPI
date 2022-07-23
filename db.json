@@ -259,55 +259,5 @@
         "type": "Aircraft Carrier",
         "rarity": "Rare",
         "nation": "Sakura Empire"
-    },
-    {
-        "id:": "32",
-        "name": "IJN Shoukaku",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Shoukaku",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Shoukaku.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "33",
-        "name": "IJN Zuikaku",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Zuikaku",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Zuikaku.png",
-        "description": "",
-        "type": "Aircraft Carrier",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "34",
-        "name": "KMS Z23",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Z23.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Elite",
-        "nation": "Iron Blood"
-    },
-    {
-        "id:": "35",
-        "name": "KMS Prinz Eugen",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prinz_Eugen.png",
-        "description": "",
-        "type": "Heavy Cruiser",
-        "rarity": "Super Rare",
-        "nation": "Iron Blood"
-    },
-    {
-        "id:": "36",
-        "name": "KMS Tirpitz",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Tirpitz.png",
-        "description": "",
-        "type": "Battleship",
-        "rarity": "Super Rare",
-        "nation": "Iron Blood"
     }
 ]
