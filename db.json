@@ -1,38 +1,7 @@
 {
     "ships": [
-        
         {
             "id:": "1",
-            "name": "Universal Bulin",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Universal_Bulin",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Universal_Bulin.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Elite",
-            "nation": "Unknown"
-        },
-        {
-            "id:": "2",
-            "name": "Prototype Bulin MKII",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prototype_Bulin_MKII",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prototype_Bulin_MKII.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Super Rare",
-            "nation":"Unknown"
-        },
-        {
-            "id:": "3",
-            "name": "Specialized Bulin Custom MKIII",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Specialized_Bulin_Custom_MKIII",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Specialized_Bulin_Custom_MKIII.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Ultra Rare",
-            "nation": "Unknown"
-        },
-        {
-            "id:": "4",
             "name": "USS Dewey",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Dewey",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Dewey.png",
@@ -42,7 +11,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "5",
+            "id:": "2",
             "name": "USS Laffey",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Laffey",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Laffey.png",
@@ -52,7 +21,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "6",
+            "id:": "3",
             "name": "USS Helena",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Helena",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Helena.png",
@@ -62,7 +31,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "7",
+            "id:": "4",
             "name": "USS Cleveland",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Cleveland",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Cleveland.png",
@@ -72,7 +41,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "8",
+            "id:": "5",
             "name": "USS Oklahoma",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Oklahoma",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Oklahoma.png",
@@ -82,17 +51,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "9",
-            "name": "USS Baltimore",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Baltimore",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Baltimore.png",
-            "description": "",
-            "type": "Heavy Cruiser",
-            "rarity": "Super Rare",
-            "nation": "Eagle Union"
-        },
-        {
-            "id:": "10",
+            "id:": "6",
             "name": "USS Atlanta",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atlanta",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atlanta.png",
@@ -102,7 +61,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "11",
+            "id:": "7",
             "name": "USS Enterprise",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Enterprise",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Enterprise.png",
@@ -112,7 +71,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "12",
+            "id:": "8",
             "name": "USS Long Island",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Long_Island",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Long_Island.png",
@@ -122,7 +81,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "13",
+            "id:": "9",
             "name": "USS Yorktown",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Yorktown",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Yorktown.png",
@@ -132,7 +91,7 @@
             "nation": "Eagle Union"
         },
         {
-            "id:": "14",
+            "id:": "10",
             "name": "HMS Hood",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Hood",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Hood.png",
@@ -142,7 +101,7 @@
             "nation": "Royal Navy"
         },
         {
-            "id:": "15",
+            "id:": "11",
             "name": "HMS Leander",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Leander",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Leander.png",
@@ -152,7 +111,7 @@
             "nation": "Royal Navy"
         },
         {
-            "id:": "16",
+            "id:": "12",
             "name": "HMS Dido",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Dido",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Dido.png",
@@ -161,9 +120,8 @@
             "rarity": "Super Rare",
             "nation": "Royal Navy"
         },
-        {
-            
-            "id:": "17",
+        { 
+            "id:": "13",
             "name": "HMS Belfast",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Belfast",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Belfast.png",
@@ -173,8 +131,7 @@
             "nation": "Royal Navy"
         },
         {
-            
-            "id:": "18",
+            "id:": "14",
             "name": "HMS London",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/London",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:London.png",
@@ -184,8 +141,7 @@
             "nation": "Royal Navy"
         },
         {
-            
-            "id:": "19",
+            "id:": "15",
             "name": "HMS Exeter",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Exeter",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Exeter.png",
@@ -195,8 +151,7 @@
             "nation": "Royal Navy"
         },
         {
-            
-            "id:": "20",
+            "id:": "16",
             "name": "HMS Duke of York",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Duke_of_York.png",
@@ -207,7 +162,7 @@
         },
         {
             
-            "id:": "21",
+            "id:": "17",
             "name": "HMS Illustrious",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Illustrious.png",
@@ -218,7 +173,7 @@
         },
         {
             
-            "id:": "22",
+            "id:": "18",
             "name": "HMS Formidable",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Formidable",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Formidable.png",
@@ -227,10 +182,9 @@
             "rarity": "Super Rare",
             "nation": "Royal Navy"
         },
-        
         {
             
-            "id:": "23",
+            "id:": "19",
             "name": "IJN Kagerou",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kagerou",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kagerou.png",
@@ -241,7 +195,7 @@
         },
         {
             
-            "id:": "24",
+            "id:": "20",
             "name": "IJN Ayanami",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ayanami",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ayanami.png",
@@ -251,17 +205,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "25",
-            "name": "IJN Kamikaze",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kamikaze",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kamikaze.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Rare",
-            "nation": "Sakura Empire"
-        },
-        {
-            "id:": "26",
+            "id:": "21",
             "name": "IJN Furutaka",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Furutaka.png",
@@ -271,7 +215,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "27",
+            "id:": "22",
             "name": "IJN Mogami",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Mogami.png",
@@ -281,7 +225,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "28",
+            "id:": "23",
             "name": "IJN Takao",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Takao.png",
@@ -291,7 +235,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "29",
+            "id:": "24",
             "name": "IJN Atago",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atago.png",
@@ -301,7 +245,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "30",
+            "id:": "25",
             "name": "IJN Ise",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ise.png",
@@ -311,7 +255,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "31",
+            "id:": "26",
             "name": "IJN Nagato",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagato",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Nagato.png",
@@ -321,7 +265,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "32",
+            "id:": "27",
             "name": "IJN Kaga",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kaga.png",
@@ -331,7 +275,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "33",
+            "id:": "28",
             "name": "IJN Akagi",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Akagi.png",
@@ -341,27 +285,7 @@
             "nation": "Sakura Empire"
         },
         {
-            "id:": "34",
-            "name": "IJN Shoukaku",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Shoukaku",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Shoukaku.png",
-            "description": "",
-            "type": "Aircraft Carrier",
-            "rarity": "Rare",
-            "nation": "Sakura Empire"
-        },
-        {
-            "id:": "35",
-            "name": "IJN Zuikaku",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Zuikaku",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Zuikaku.png",
-            "description": "",
-            "type": "Aircraft Carrier",
-            "rarity": "Rare",
-            "nation": "Sakura Empire"
-        },
-        {
-            "id:": "36",
+            "id:": "29",
             "name": "KMS Z23",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Z23.png",
@@ -371,17 +295,7 @@
             "nation": "Iron Blood"
         },
         {
-            "id:": "37",
-            "name": "KMS Z25",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z25",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Z25.png",
-            "description": "",
-            "type": "Destroyer",
-            "rarity": "Elite",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "38",
+            "id:": "30",
             "name": "KMS Prinz Eugen",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prinz_Eugen.png",
@@ -391,7 +305,7 @@
             "nation": "Iron Blood"
         },
         {
-            "id:": "39",
+            "id:": "31",
             "name": "KMS Bismarck",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Bismarck",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Bismarck.png",
@@ -401,7 +315,7 @@
             "nation": "Iron Blood"
         },
         {
-            "id:": "40",
+            "id:": "32",
             "name": "KMS Tirpitz",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Tirpitz.png",
@@ -411,17 +325,7 @@
             "nation": "Iron Blood"
         },
         {
-            "id:": "41",
-            "name": "KMS Gneisenau",
-            "wikiUrl": "https://azurlane.koumakan.jp/wiki/Gneisenau",
-            "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Gneisenau.png",
-            "description": "",
-            "type": "Battlecruiser",
-            "rarity": "Super Rare",
-            "nation": "Iron Blood"
-        },
-        {
-            "id:": "42",
+            "id:": "33",
             "name": "KMS Graf Zeppelin",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Graf_Zeppelin",
             "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Graf_Zeppelin.png",
