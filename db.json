@@ -192,16 +192,6 @@
     },
     {
         "id:": "25",
-        "name": "IJN Kamikaze",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kamikaze",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kamikaze.png",
-        "description": "",
-        "type": "Destroyer",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "26",
         "name": "IJN Furutaka",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Furutaka.png",
@@ -211,7 +201,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "27",
+        "id:": "26",
         "name": "IJN Mogami",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Mogami.png",
@@ -221,7 +211,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "28",
+        "id:": "27",
         "name": "IJN Takao",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Takao.png",
@@ -231,7 +221,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "29",
+        "id:": "28",
         "name": "IJN Atago",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Atago.png",
@@ -241,17 +231,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "30",
-        "name": "IJN Ise",
-        "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
-        "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Ise.png",
-        "description": "",
-        "type": "Battleship",
-        "rarity": "Rare",
-        "nation": "Sakura Empire"
-    },
-    {
-        "id:": "31",
+        "id:": "29",
         "name": "IJN Nagato",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagato",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Nagato.png",
@@ -261,7 +241,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "32",
+        "id:": "30",
         "name": "IJN Kaga",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Kaga.png",
@@ -271,7 +251,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "33",
+        "id:": "31",
         "name": "IJN Akagi",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Akagi.png",
@@ -281,7 +261,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "34",
+        "id:": "32",
         "name": "IJN Shoukaku",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Shoukaku",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Shoukaku.png",
@@ -291,7 +271,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "35",
+        "id:": "33",
         "name": "IJN Zuikaku",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Zuikaku",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Zuikaku.png",
@@ -301,7 +281,7 @@
         "nation": "Sakura Empire"
     },
     {
-        "id:": "36",
+        "id:": "34",
         "name": "KMS Z23",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Z23.png",
@@ -311,7 +291,7 @@
         "nation": "Iron Blood"
     },
     {
-        "id:": "37",
+        "id:": "35",
         "name": "KMS Prinz Eugen",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Prinz_Eugen.png",
@@ -321,7 +301,7 @@
         "nation": "Iron Blood"
     },
     {
-        "id:": "38",
+        "id:": "36",
         "name": "KMS Tirpitz",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
         "imageUrl": "https://azurlane.koumakan.jp/wiki/File:Tirpitz.png",
