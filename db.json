@@ -1,9 +1,6 @@
-//AzurLaneDB.js / id, name, wikiUrl, imageUrl, 
-//description, type, rarity, nation /
-//imageURL format 'https://azurlane.koumakan.jp/wiki/File:name.png'
 
 [
-    //Unknown
+
     {
         "id:": "1",
         "name": "Universal Bulin",
@@ -135,7 +132,7 @@
         "rarity": "Elite",
         "nation": "Eagle Union"
     },
-    //Royal Navy Ships, Nation: "Royal Navy" , Name: "HMS " + Name
+
     {
         "id:": "14",
         "name": "HMS Hood",
@@ -167,7 +164,7 @@
         "nation": "Royal Navy"
     },
     {
-        //Belfast
+
         "id:": "17",
         "name": "HMS Belfast",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Belfast",
@@ -178,7 +175,7 @@
         "nation": "Royal Navy"
     },
     {
-        //London
+     
         "id:": "18",
         "name": "HMS London",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/London",
@@ -189,7 +186,7 @@
         "nation": "Royal Navy"
     },
     {
-        //Exeter
+        
         "id:": "19",
         "name": "HMS Exeter",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Exeter",
@@ -200,7 +197,7 @@
         "nation": "Royal Navy"
     },
     {
-        //Duke of York
+        
         "id:": "20",
         "name": "HMS Duke of York",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Duke_of_York",
@@ -211,7 +208,7 @@
         "nation": "Royal Navy"
     },
     {
-        //Illustrious
+        
         "id:": "21",
         "name": "HMS Illustrious",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Illustrious",
@@ -222,7 +219,7 @@
         "nation": "Royal Navy"
     },
     {
-        //Formidable
+        
         "id:": "22",
         "name": "HMS Formidable",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Formidable",
@@ -232,9 +229,9 @@
         "rarity": "Super Rare",
         "nation": "Royal Navy"
     },
-    //Sakura Empire Ships, Nation: "Sakura Empire" , Name: "IJN " + Name
+    
     {
-        //Kagerou
+  
         "id:": "23",
         "name": "IJN Kagerou",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kagerou",
@@ -245,7 +242,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Ayanami
+        
         "id:": "24",
         "name": "IJN Ayanami",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ayanami",
@@ -256,7 +253,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Kamikaze
+        
         "id:": "25",
         "name": "IJN Kamikaze",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kamikaze",
@@ -267,7 +264,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Furutaka
+        
         "id:": "26",
         "name": "IJN Furutaka",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Furutaka",
@@ -278,7 +275,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Mogami
+        
         "id:": "27",
         "name": "IJN Mogami",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Mogami",
@@ -289,7 +286,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Takao
+        
         "id:": "28",
         "name": "IJN Takao",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Takao",
@@ -300,7 +297,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Atago
+        
         "id:": "29",
         "name": "IJN Atago",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Atago",
@@ -311,7 +308,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Ise
+        
         "id:": "30",
         "name": "IJN Ise",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Ise",
@@ -322,7 +319,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Nagato
+        
         "id:": "31",
         "name": "IJN Nagato",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Nagato",
@@ -333,7 +330,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Kaga
+        
         "id:": "32",
         "name": "IJN Kaga",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Kaga",
@@ -344,7 +341,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Akagi
+        
         "id:": "33",
         "name": "IJN Akagi",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Akagi",
@@ -355,7 +352,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Shoukaku
+        
         "id:": "34",
         "name": "IJN Shoukaku",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Shoukaku",
@@ -366,7 +363,7 @@
         "nation": "Sakura Empire"
     },
     {
-        //Zuikaku
+        
         "id:": "35",
         "name": "IJN Zuikaku",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Zuikaku",
@@ -376,9 +373,9 @@
         "rarity": "Rare",
         "nation": "Sakura Empire"
     },
-    //Iron Blood Ships, Nation: Iron Blood, Name: "KMS" + name
+    
     {
-        //Z23
+        
         "id:": "36",
         "name": "KMS Z23",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z23",
@@ -389,7 +386,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Z25
+        
         "id:": "37",
         "name": "KMS Z25",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Z25",
@@ -400,7 +397,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Prinz Eugen
+        
         "id:": "38",
         "name": "KMS Prinz Eugen",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Prinz_Eugen",
@@ -411,7 +408,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Bismarck
+        
         "id:": "39",
         "name": "KMS Bismarck",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Bismarck",
@@ -422,7 +419,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Tirpitz
+        
         "id:": "40",
         "name": "KMS Tirpitz",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Tirpitz",
@@ -433,7 +430,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Gneisenau
+        
         "id:": "41",
         "name": "KMS Gneisenau",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Gneisenau",
@@ -444,7 +441,7 @@
         "nation": "Iron Blood"
     },
     {
-        //Graf Zeppelin
+        
         "id:": "42",
         "name": "KMS Graf Zeppelin",
         "wikiUrl": "https://azurlane.koumakan.jp/wiki/Graf_Zeppelin",
