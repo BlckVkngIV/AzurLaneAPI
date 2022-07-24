@@ -1,16 +1,6 @@
 { 
    "ships": [
         {
-            "id:": "0",
-            "name": "null",
-            "wikiUrl": "null",
-            "image": "null",
-            "description": "null",
-            "type": "null",
-            "rarity": "null",
-            "nation": "null"
-        },
-        {
             "id:": "2",
             "name": "USS Laffey",
             "wikiUrl": "https://azurlane.koumakan.jp/wiki/Laffey",
